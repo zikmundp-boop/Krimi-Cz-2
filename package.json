@@ -1,0 +1,12 @@
+{
+  "name": "krimi-cz",
+  "version": "1.0.0",
+  "description": "Mapa aktuálních kriminálních zpráv podle krajů ČR",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
